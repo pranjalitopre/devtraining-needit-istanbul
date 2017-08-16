@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MyFavtApp" max_length="40" name="x_58872_needit_myfavtapp" type="collection">
+        <element default="0" label="Testfield" max_length="8" name="testfield" reference="alm_asset" type="boolean"/>
+    </element>
+</database>
